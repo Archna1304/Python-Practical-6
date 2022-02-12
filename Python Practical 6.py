@@ -4,7 +4,7 @@
 # For each word, output its number of occurrences.
 # The output order should correspond with the input order of appearance of the word.
 # See the sample input/output for clarification.
-# Git Repository
+# Git Repository: https://github.com/Archna1304/Python-Practical-6.git
 
 # import counter from collections
 from collections import Counter
